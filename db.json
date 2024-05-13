@@ -1,5 +1,47 @@
 {
+  "main": {
+    "id": 1,
+    "company": "(주)HDC현대산업개발",
+    "title": "It’s High-end Life!",
+    "content": "가장 앞에・가장 높게・가장 품격있게",
+    "logo": "/asset/img/logo.png",
+    "bg": "/asset/img/main.png",
+    "tel": "1588-1234"
+  },
+
   "db": [
+    {
+      "id": 1,
+      "title": "59A",
+      "total": 120,
+      "value": 10
+    },
+    {
+      "id": 2,
+      "title": "59B",
+      "total": 130,
+      "value": 20
+    },
+    {
+      "id": 3,
+      "title": "84A",
+      "total": 90,
+      "value": 30
+    },
+    {
+      "id": 4,
+      "title": "84B",
+      "total": 120,
+      "value": 40
+    },
+    {
+      "id": 5,
+      "title": "104A",
+      "total": 140,
+      "value": 50
+    }
+  ],
+  "premium": [
     {
       "id": 1,
       "title": "종로엠스쿨 입점과 통학용 셔틀버스 운영(예정)",
